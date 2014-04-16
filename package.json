@@ -1,0 +1,22 @@
+{
+  "name": "node-jquery2-ajax",
+  "version": "0.0.1",
+  "description": "It doesn't work",
+  "author": {
+    "name": "Chris Abrams",
+    "email": "mail@chrisabrams.com"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisabrams/node-jquery2-ajax.git"
+  },
+  "dependencies": {
+    "jquery": "2.1.0",
+    "jsdom": "0.10.5",
+    "xmlhttprequest": "1.6.0"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
